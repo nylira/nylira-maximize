@@ -1,7 +1,7 @@
 {
   "name": "nylira-maximize",
   "version": "0.0.1",
-  "description": "Maximizes the specified DOM element to fill the user's screen.",
+  "description": "Maximize the specified DOM element to fill the user's screen.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
