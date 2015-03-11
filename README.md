@@ -15,9 +15,9 @@ Example usage:
 
     maximize(gameCanvas, 1920, 1080)
 
-The `1920, 1080` parameters are WIDTH and HEIGHT respectively.
+This example will resize the `#gameCanvas` element to fill the screen horizontally. It will also keep the 16:9 aspect ratio.
 
-This will resize your canvas element (with the id 'gameCanvas') to fill the screen horizontally. It will also keep the 16:9 aspect ratio in sync.
+The `1920, 1080` parameters are WIDTH and HEIGHT respectively. The function uses WIDTH and HEIGHT to get your aspect ratio.
 
 ## License
 
