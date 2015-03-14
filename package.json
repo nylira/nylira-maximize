@@ -1,6 +1,6 @@
 {
   "name": "nylira-maximize",
-  "version": "0.0.5",
+  "version": "1.0.5",
   "description": "Maximize the specified DOM element to fill the user's screen while retaining aspect ratio.",
   "main": "index.js",
   "scripts": {
